@@ -27,7 +27,7 @@ body {
 	margin: 0 auto 60px;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 700px) {
 	.header-box {
 	width: 100%;
 	hieght: 50vh;
